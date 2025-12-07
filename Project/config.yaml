@@ -1,5 +1,5 @@
 train: D:/TrabalhoIA/dataset/train/images
 val: D:/TrabalhoIA/dataset/valid/images
 
-nc: 1
-names: ['dog']
+nc: 2
+names: ['dog', 'cat']

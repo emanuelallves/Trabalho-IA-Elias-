@@ -9,7 +9,7 @@ def main():
         epochs=100,
         imgsz=640,
         batch=2,
-        name="dog_detector",
+        name="dog_cat_detector",
         device=0  # GPU (0) ou 'cpu'
     )
 

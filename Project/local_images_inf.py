@@ -9,7 +9,7 @@ model_path = 'D:/TrabalhoIA/best.pt'
 model = YOLO(model_path)
 
 # --- 2. Pasta com as imagens ---
-images_folder = 'D:/TrabalhoIA/kyara'  # pasta com as imagens
+images_folder = 'D:/TrabalhoIA/gatos'  # pasta com as imagens
 
 # Extensões válidas
 valid_exts = ('.jpg', '.jpeg', '.png', '.bmp')
